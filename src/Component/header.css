@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.headClass{
+  background-color: rgb(73, 73, 104);
+  width:100%;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* محاذاه للdiv */
+  border-top: 3px solid rgb(211, 210, 210) ;
+  position: fixed;
+  padding: 0px 100px;   /* box-sizeing*/
+  z-index: 9999;
+}
+h1{
+  font-size: 30px;
+  color: bisque;
+  padding: 10px;
+  font-style: italic;
+}
+span{
+  color: red;
+  font-size: 30px;
+}
+.navClass{
+  padding: 20px;
+  margin-right: 10px;
+}
+.navClass a{
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bolder;
+  color: bisque;
+  margin-right: 15px;
+  transition: ease 0.5s;
+}
+.navClass a:hover{
+  font-size: 20px;
+  /* transform: scale(1.1); */
+  color:brown;
+}

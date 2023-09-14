@@ -1,0 +1,32 @@
+.NTIgroup{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 150px 50px;
+  color: white;
+
+}
+.NTIdes{
+  text-align: center;
+  width:60%;
+  line-height: 30px;
+}
+.NTIimage{
+  width: 40%;
+  padding:10px;
+  margin-right: 10px;
+  box-shadow: 0px 0px 2px rgb(236, 212, 212);
+  overflow: hidden;
+  border-radius: 10px;
+  padding-left: 100px;
+}
+.NTIimage-rtl {
+  width: 40%;
+  padding: 10px;
+  margin-left: 10px;
+  box-shadow: 0px 0px 2px rgb(236, 212, 212);
+  overflow: hidden;
+  border-radius: 10px;
+  padding-right: 100px;
+  color: white;
+}

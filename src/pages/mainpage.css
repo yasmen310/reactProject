@@ -1,0 +1,34 @@
+.carsourClass{
+  background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)),url("../photo/Types_of_React_Apps_11zon_5c6e49a31e.webp");
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  color: bisque;
+}
+.carsourClass div{
+  margin-left: 30px;
+}
+.carsourClass span{
+  color: red;
+  font-size: 30px;
+}
+.carsourClass a{
+  text-decoration: none;
+  color: bisque;
+  /* background-color: blueviolet; */
+  border: 2px solid red;
+  padding: 13px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-top: 15px;
+  transition: ease 0.5s;
+}
+.carsourClass a:hover{
+  transform: scale(1.1);
+  background-color: red;
+  padding: 10px 15px;
+  border-radius: 20px;
+}

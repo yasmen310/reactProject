@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c34e9ff.css",
+    "main.js": "/static/js/main.b1e6b88c.js",
+    "static/media/nigommoqt57x17bwt8m3.webp": "/static/media/nigommoqt57x17bwt8m3.0a1c31cdb1f712382a17.webp",
+    "service-worker.js": "/service-worker.js",
+    "static/media/Types_of_React_Apps_11zon_5c6e49a31e.webp": "/static/media/Types_of_React_Apps_11zon_5c6e49a31e.191d6a3f68dd8a781beb.webp",
+    "static/media/ReactJS-Tutorial.jpg": "/static/media/ReactJS-Tutorial.94317f3d1941fdf715b6.jpg",
+    "static/media/What-is-ReactJS-and-Why-to-Use-It.png": "/static/media/What-is-ReactJS-and-Why-to-Use-It.14f9e8531589c5ec7a83.png",
+    "static/media/1618676397-101006.jpg": "/static/media/1618676397-101006.2a8456a63a9c62a03394.jpg",
+    "static/media/React Properties.jpg": "/static/media/React Properties.f5f574f48e6d30c15adb.jpg",
+    "static/media/images (17).jfif": "/static/media/images (17).369b7923afd4730cd696.jfif",
+    "index.html": "/index.html",
+    "main.8c34e9ff.css.map": "/static/css/main.8c34e9ff.css.map",
+    "main.b1e6b88c.js.map": "/static/js/main.b1e6b88c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c34e9ff.css",
+    "static/js/main.b1e6b88c.js"
+  ]
+}
